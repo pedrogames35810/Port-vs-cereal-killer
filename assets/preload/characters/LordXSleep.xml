@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="LordXSleep.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="LordX IDLE0000" x="1" y="1" width="605" height="709"/>
+	<SubTexture name="LordX IDLE0001" x="1" y="1" width="605" height="709"/>
+	<SubTexture name="LordX IDLE0002" x="607" y="1" width="605" height="709"/>
+	<SubTexture name="LordX IDLE0003" x="607" y="1" width="605" height="709"/>
+	<SubTexture name="LordX IDLE0004" x="607" y="1" width="605" height="709"/>
+	<SubTexture name="LordX IDLE0005" x="607" y="1" width="605" height="709"/>
+	<SubTexture name="LordX IDLE0006" x="1213" y="1" width="605" height="709"/>
+	<SubTexture name="LordX IDLE0007" x="1213" y="1" width="605" height="709"/>
+	<SubTexture name="LordX IDLE0008" x="1" y="711" width="605" height="709"/>
+	<SubTexture name="LordX IDLE0009" x="1" y="711" width="605" height="709"/>
+	<SubTexture name="LordX IDLE0010" x="1" y="711" width="605" height="709"/>
+	<SubTexture name="LordX IDLE0011" x="1" y="711" width="605" height="709"/>
+	<SubTexture name="LordX IDLE0012" x="1" y="711" width="605" height="709"/>
+	<SubTexture name="LordX IDLE0013" x="1" y="711" width="605" height="709"/>
+</TextureAtlas>

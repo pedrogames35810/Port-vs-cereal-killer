@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Jewlie.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Jewlie GONE0000" x="1" y="1" width="652" height="473"/>
+	<SubTexture name="Jewlie IDLE0000" x="654" y="1" width="627" height="643"/>
+	<SubTexture name="Jewlie IDLE0001" x="1282" y="1" width="627" height="643"/>
+	<SubTexture name="Jewlie IDLE0002" x="1910" y="1" width="627" height="643"/>
+	<SubTexture name="Jewlie IDLE0003" x="1910" y="1" width="627" height="643"/>
+	<SubTexture name="Jewlie IDLE0004" x="2538" y="1" width="627" height="643"/>
+	<SubTexture name="Jewlie IDLE0005" x="3166" y="1" width="627" height="643"/>
+	<SubTexture name="Jewlie IDLE0006" x="1" y="645" width="627" height="643"/>
+	<SubTexture name="Jewlie IDLE0007" x="629" y="645" width="627" height="643"/>
+	<SubTexture name="Jewlie IDLE0008" x="629" y="645" width="627" height="643"/>
+	<SubTexture name="Jewlie IDLE0009" x="629" y="645" width="627" height="643"/>
+	<SubTexture name="Jewlie IDLE0010" x="1257" y="645" width="627" height="643"/>
+	<SubTexture name="Jewlie IDLE0011" x="1257" y="645" width="627" height="643"/>
+	<SubTexture name="Jewlie IDLE0012" x="1257" y="645" width="627" height="643"/>
+	<SubTexture name="Jewlie IDLE0013" x="1885" y="645" width="627" height="643"/>
+	<SubTexture name="Jewlie IDLE0014" x="2513" y="645" width="627" height="643"/>
+	<SubTexture name="Jewlie IDLE0015" x="3141" y="645" width="627" height="643"/>
+	<SubTexture name="Jewlie IDLE0016" x="1" y="1289" width="627" height="643"/>
+	<SubTexture name="Jewlie IDLE0017" x="629" y="1289" width="627" height="643"/>
+	<SubTexture name="Jewlie IDLE0018" x="1257" y="1289" width="627" height="643"/>
+	<SubTexture name="Jewlie IDLE0019" x="1885" y="1289" width="627" height="643"/>
+	<SubTexture name="Jewlie IDLE0020" x="1885" y="1289" width="627" height="643"/>
+	<SubTexture name="Jewlie IDLE0021" x="2513" y="1289" width="627" height="643"/>
+	<SubTexture name="Jewlie IDLE0022" x="3141" y="1289" width="627" height="643"/>
+	<SubTexture name="Jewlie IDLE0023" x="3141" y="1289" width="627" height="643"/>
+	<SubTexture name="Jewlie IDLE0024" x="3141" y="1289" width="627" height="643"/>
+	<SubTexture name="Jewlie IDLE0025" x="1" y="1933" width="627" height="643"/>
+	<SubTexture name="Jewlie IDLE0026" x="1" y="1933" width="627" height="643"/>
+	<SubTexture name="Jewlie IDLE0027" x="629" y="1933" width="627" height="643"/>
+	<SubTexture name="Jewlie IDLE0028" x="1257" y="1933" width="627" height="643"/>
+	<SubTexture name="Jewlie IDLE0029" x="1257" y="1933" width="627" height="643"/>
+</TextureAtlas>

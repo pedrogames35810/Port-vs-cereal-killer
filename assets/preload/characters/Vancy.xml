@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Vancy.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Vancy speakerdance0000" x="1" y="1" width="788" height="808"/>
+	<SubTexture name="Vancy speakerdance0001" x="790" y="1" width="788" height="808"/>
+	<SubTexture name="Vancy speakerdance0002" x="1579" y="1" width="788" height="808"/>
+	<SubTexture name="Vancy speakerdance0003" x="2368" y="1" width="788" height="808"/>
+	<SubTexture name="Vancy speakerdance0004" x="3157" y="1" width="788" height="808"/>
+	<SubTexture name="Vancy speakerdance0005" x="3157" y="1" width="788" height="808"/>
+	<SubTexture name="Vancy speakerdance0006" x="1" y="810" width="788" height="808"/>
+	<SubTexture name="Vancy speakerdance0007" x="790" y="810" width="788" height="808"/>
+	<SubTexture name="Vancy speakerdance0008" x="790" y="810" width="788" height="808"/>
+	<SubTexture name="Vancy speakerdance0009" x="1579" y="810" width="788" height="808"/>
+	<SubTexture name="Vancy speakerdance0010" x="2368" y="810" width="788" height="808"/>
+	<SubTexture name="Vancy speakerdance0011" x="3157" y="810" width="788" height="808"/>
+	<SubTexture name="Vancy speakerdance0012" x="1" y="1619" width="788" height="808"/>
+	<SubTexture name="Vancy speakerdance0013" x="790" y="1619" width="788" height="808"/>
+	<SubTexture name="Vancy speakerdance0014" x="1579" y="1619" width="788" height="808"/>
+	<SubTexture name="Vancy speakerdance0015" x="2368" y="1619" width="788" height="808"/>
+	<SubTexture name="Vancy speakerdance0016" x="3157" y="1619" width="788" height="808"/>
+	<SubTexture name="Vancy speakerdance0017" x="1" y="2428" width="788" height="808"/>
+	<SubTexture name="Vancy speakerdance0018" x="790" y="2428" width="788" height="808"/>
+	<SubTexture name="Vancy speakerdance0019" x="1579" y="2428" width="788" height="808"/>
+	<SubTexture name="Vancy speakerdance0020" x="1579" y="2428" width="788" height="808"/>
+	<SubTexture name="Vancy speakerdance0021" x="2368" y="2428" width="788" height="808"/>
+	<SubTexture name="Vancy speakerdance0022" x="3157" y="2428" width="788" height="808"/>
+	<SubTexture name="Vancy speakerdance0023" x="1" y="3237" width="788" height="808"/>
+	<SubTexture name="Vancy speakerdance0024" x="1" y="3237" width="788" height="808"/>
+	<SubTexture name="Vancy speakerdance0025" x="790" y="3237" width="788" height="808"/>
+	<SubTexture name="Vancy speakerdance0026" x="1579" y="3237" width="788" height="808"/>
+	<SubTexture name="Vancy speakerdance0027" x="2368" y="3237" width="788" height="808"/>
+	<SubTexture name="Vancy speakerdance0028" x="3157" y="3237" width="788" height="808"/>
+	<SubTexture name="Vancy speakerdance0029" x="1" y="4046" width="788" height="808"/>
+</TextureAtlas>
