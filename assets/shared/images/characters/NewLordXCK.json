@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				3,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "LordX IDLE"
+		},
+		{
+			"offsets": [
+				292,
+				-12
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "LordX LEFT"
+		},
+		{
+			"offsets": [
+				-90,
+				-66
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "LordX RIGHT"
+		},
+		{
+			"offsets": [
+				1,
+				-47
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "LordX DOWN"
+		},
+		{
+			"offsets": [
+				0,
+				122
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "LordX UP"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				124,
+				-7
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "LordX LAUGH",
+			"indices": []
+		},
+		{
+			"offsets": [
+				5,
+				-9
+			],
+			"loop": true,
+			"fps": 20,
+			"anim": "StancedUp",
+			"indices": [],
+			"name": "LordX SmirkIdle"
+		},
+		{
+			"offsets": [
+				0,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "IdleAlt",
+			"indices": [],
+			"name": "LordX AIdle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 15,
+			"anim": "",
+			"loop": true,
+			"name": ""
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/LordXSleep",
+	"position": [
+		-100,
+		20
+	],
+	"healthicon": "X",
+	"flip_x": false,
+	"healthbar_colors": [
+		120,
+		119,
+		176
+	],
+	"camera_position": [
+		-40,
+		40
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

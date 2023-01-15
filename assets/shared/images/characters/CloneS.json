@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				-120
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Clone IDLE"
+		},
+		{
+			"offsets": [
+				200,
+				-163
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Clone LEFT"
+		},
+		{
+			"offsets": [
+				-70,
+				-170
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Clone RIGHT"
+		},
+		{
+			"offsets": [
+				60,
+				-240
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Clone DOWN"
+		},
+		{
+			"offsets": [
+				14,
+				-79
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Clone UP"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-90
+			],
+			"anim": "Spin",
+			"fps": 24,
+			"name": "Clone SPIN",
+			"indices": []
+		},
+		{
+			"offsets": [
+				370,
+				-90
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "turn",
+			"indices": [],
+			"name": "Clone TURN"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Clones",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "Clone",
+	"flip_x": false,
+	"healthbar_colors": [
+		67,
+		118,
+		189
+	],
+	"camera_position": [
+		-90,
+		230
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

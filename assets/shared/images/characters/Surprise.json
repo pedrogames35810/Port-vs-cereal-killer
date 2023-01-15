@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				370,
+				-104
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Surprise IDLE"
+		},
+		{
+			"offsets": [
+				420,
+				-113
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Surprise LEFT"
+		},
+		{
+			"offsets": [
+				337,
+				-111
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Surprise RIGHT"
+		},
+		{
+			"offsets": [
+				366,
+				-115
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Surprise DOWN"
+		},
+		{
+			"offsets": [
+				373,
+				-72
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Surprise UP"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				370,
+				-90
+			],
+			"anim": "turn",
+			"fps": 24,
+			"name": "Surprise TURNl",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/CSurprise",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "Mystery",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-70,
+		120
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

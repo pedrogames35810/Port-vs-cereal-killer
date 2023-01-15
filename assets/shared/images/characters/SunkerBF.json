@@ -1,0 +1,210 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Sunky IDLE"
+		},
+		{
+			"offsets": [
+				73,
+				-3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Sunky LEFT"
+		},
+		{
+			"offsets": [
+				-64,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Sunky RIGHT"
+		},
+		{
+			"offsets": [
+				1,
+				184
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Sunky UP"
+		},
+		{
+			"offsets": [
+				10,
+				-70
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Sunky DOWN"
+		},
+		{
+			"offsets": [
+				73,
+				-3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "Sunky FuckL"
+		},
+		{
+			"offsets": [
+				10,
+				-70
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "Sunky FuckD"
+		},
+		{
+			"offsets": [
+				1,
+				184
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "Sunky FuckU"
+		},
+		{
+			"offsets": [
+				-64,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "Sunky FuckR"
+		},
+		{
+			"offsets": [
+				177,
+				69
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "scared",
+			"indices": [],
+			"name": "Sunky DANCE"
+		},
+		{
+			"offsets": [
+				-3,
+				5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "Sunky HEY"
+		},
+		{
+			"offsets": [
+				177,
+				69
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "Sunky DANCE"
+		},
+		{
+			"offsets": [
+				177,
+				69
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "Sunky DANCE"
+		},
+		{
+			"offsets": [
+				177,
+				69
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "Sunky DANCE"
+		},
+		{
+			"offsets": [
+				66,
+				12
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "Sunky LAUGH"
+		},
+		{
+			"offsets": [
+				52,
+				3
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"loop": false,
+			"name": "Sunky ALEFT"
+		},
+		{
+			"offsets": [
+				-6,
+				-10
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"loop": false,
+			"name": "Sunky ARIGHT"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/SunkerBF",
+	"position": [
+		190,
+		350
+	],
+	"healthicon": "Sunkerbf",
+	"flip_x": true,
+	"healthbar_colors": [
+		38,
+		66,
+		253
+	],
+	"camera_position": [
+		-20,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

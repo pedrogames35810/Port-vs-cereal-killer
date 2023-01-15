@@ -1,0 +1,188 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-140,
+				15
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "SonicEXE LEFT"
+		},
+		{
+			"offsets": [
+				-141,
+				42
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "SonicEXE DOWN"
+		},
+		{
+			"offsets": [
+				-140,
+				97
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "SonicEXE RIGHT"
+		},
+		{
+			"offsets": [
+				-140,
+				152
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "SonicEXE UP"
+		},
+		{
+			"offsets": [
+				-140,
+				51
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceLeft",
+			"indices": [
+				30,
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			],
+			"name": "SonicEXE IDLE"
+		},
+		{
+			"offsets": [
+				-140,
+				51
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceRight",
+			"indices": [
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				29
+			],
+			"name": "SonicEXE IDLE"
+		},
+		{
+			"offsets": [
+				-140,
+				168
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "Laugh",
+			"indices": [],
+			"name": "SonicEXE LAUGH"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				130,
+				51
+			],
+			"anim": "MajinAppear",
+			"fps": 24,
+			"name": "SonicEXE Majin",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				152,
+				169
+			],
+			"anim": "MajinLaugh",
+			"fps": 24,
+			"name": "SonicEXE Infinite",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-140,
+				169
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "SonicEXE LAUGH"
+		},
+		{
+			"offsets": [
+				129,
+				50
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "IDLE-alt",
+			"indices": [],
+			"name": "SonicEXE Alt"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-140,
+				-342
+			],
+			"anim": "Null",
+			"fps": 24,
+			"name": "SonicEXE Gone",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/SonicExe",
+	"position": [
+		10,
+		-40
+	],
+	"healthicon": "Sonic_exe",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		88,
+		183
+	],
+	"camera_position": [
+		-150,
+		-20
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

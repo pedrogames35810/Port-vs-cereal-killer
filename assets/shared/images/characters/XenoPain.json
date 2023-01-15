@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "XPain_Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-120,
+				45
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "XPain_Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				110,
+				77
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "XPain_Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				19
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "XPain_Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-119,
+				40
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "XPain_Right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Xenopain_FLA",
+	"position": [
+		0,
+		100
+	],
+	"healthicon": "Pain",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		209
+	],
+	"camera_position": [
+		-200,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
