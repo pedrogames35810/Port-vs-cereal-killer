@@ -24,3 +24,7 @@ pico-speaker
 bf-holding-gf
 pico-player
 tankman-player
+LordXCK
+LordX
+Sunker
+SunkerBF
